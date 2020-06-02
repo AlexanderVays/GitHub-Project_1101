@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ep4BWTs/CrZFOCd31WXhPaCCng4+qskZzSOdDsCnANItZkqD7X2KkKonZLIf0QIWfEggUMAICBB427KUF4RlVg==",
+  "dgSpecHash": "MohwlTIH+fvzRPu4FGbc3WUv3VT2ihe/lC2OVNfxWO7h/usVB1Lf9KXZaca5mJnYeL2WsMqTqxtZhX/zwyYV2Q==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\Self Studies\\C#\\Singleton\\Singleton\\Singleton.csproj",
+  "projectFilePath": "D:\\GitRepos\\Singleton\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
