@@ -7,6 +7,6 @@ namespace Singleton
 {
     interface ISingleton
     {
-        Dictionary<string, int> GetRead(string fileName);
+        void GetVocabulary(string fileName);
     }
 }
